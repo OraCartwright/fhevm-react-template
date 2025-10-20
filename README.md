@@ -531,7 +531,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📞 Support
 
-- GitHub Issues: [Report bugs or request features](https://github.com/your-username/fhevm-sdk-project/issues)
+- GitHub Issues: [Report bugs or request features](https://github.com/OraCartwright/fhevm-react-template/issues)
 - Documentation: [Full documentation](https://docs.example.com)
 - Discord: [Join our community](https://discord.gg/example)
 
@@ -606,15 +606,8 @@ The video demonstration will cover:
 
 ## 🌐 Live Deployments
 
-**Primary Demo (Vite + React):**
-- URL: [https://your-deployment.vercel.app](https://your-deployment.vercel.app)
-- Source: `/packages/example-dapp/`
-- Features: 4 scenarios (Counter, Voting, Auction, Transfers)
+- URL: [https://mortgage-approval.vercel.app/](https://mortgage-approval.vercel.app/)
 
-**Next.js Template:**
-- URL: [https://your-nextjs.vercel.app](https://your-nextjs.vercel.app)
-- Source: `/examples/nextjs-template/`
-- Features: Encrypted Counter showcase
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
 
@@ -650,9 +643,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Resources
 
 - **📖 Documentation:** [Full Documentation](https://docs.zama.ai/fhevm)
-- **💬 GitHub Issues:** [Report bugs or request features](https://github.com/your-username/fhevm-react-template/issues)
-- **🎮 Live Demo:** [Try it now](https://your-deployment.vercel.app)
-- **📺 Video Tutorial:** [Watch on YouTube](https://youtube.com/watch?v=your-video)
+- **💬 GitHub Issues:** [Report bugs or request features](https://github.com/OraCartwright/fhevm-react-template/issues)
+- **🎮 Live Demo:** [Try it now](https://mortgage-approval.vercel.app/)
+- **📺 Video Tutorial:** [demo1.mp4 demo2.mp4 demo3.mp4] 
 - **💬 Discord:** [Join Zama Community](https://discord.gg/zama)
 - **📧 Email:** support@zama.ai
 
