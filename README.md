@@ -335,7 +335,7 @@ D:\fhevm-react-template/
 ├── QUICKSTART.md               # < 10 lines setup guide
 ├── DEPLOYMENT.md               # Deployment instructions
 ├── SUBMISSION_CHECKLIST.md     # Competition checklist
-├── VIDEO_DEMO_SCRIPT.md        # Video script
+├
 ├── GETTING_STARTED.md          # Step-by-step tutorial
 ├── package.json                # Root package.json (monorepo)
 ├── turbo.json                  # Turborepo configuration
@@ -558,7 +558,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 - [x] **GitHub Repository** - Forked from fhevm-react-template with commit history preserved
 - [x] **Universal FHEVM SDK** - Framework-agnostic core package (`@fhevm/sdk`)
 - [x] **Example Templates** - Next.js showcase (required) + React/Vite (bonus)
-- [x] **Video Demo** - Script prepared in [VIDEO_DEMO_SCRIPT.md](./VIDEO_DEMO_SCRIPT.md)
+- [x] **Video Demo** - Demo1.mp4 demo2.mp4 demo3.mp4
 - [x] **README with Deployment Links** - [DEPLOYMENT.md](./DEPLOYMENT.md) (to be updated with live URLs)
 
 ### 📦 Package Structure
@@ -575,7 +575,7 @@ D:\fhevm-react-template/
 ├── QUICKSTART.md           ✅ < 10 lines setup guide
 ├── DEPLOYMENT.md           ✅ Live demo links
 ├── SUBMISSION_CHECKLIST.md ✅ Competition submission checklist
-├── VIDEO_DEMO_SCRIPT.md    ✅ Video demonstration script
+├
 ├── GETTING_STARTED.md      ✅ Step-by-step tutorial
 └── README.md               ✅ This file
 ```
@@ -600,7 +600,7 @@ The video demonstration will cover:
 4. **Code walkthrough** of SDK internals
 5. **Developer experience** highlights
 
-**Duration:** ~7 minutes | **Script:** [VIDEO_DEMO_SCRIPT.md](./VIDEO_DEMO_SCRIPT.md)
+
 
 ---
 
