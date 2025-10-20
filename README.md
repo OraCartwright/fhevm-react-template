@@ -11,12 +11,12 @@
 This is a submission for the **FHEVM SDK Template Challenge** - building a universal, developer-friendly SDK for confidential smart contracts.
 
 **🌐 Live Demos:**
-- **Vite + React Example:** [https://your-deployment.vercel.app](https://your-deployment.vercel.app) *(to be deployed)*
-- **Next.js Template:** [https://your-nextjs.vercel.app](https://your-nextjs.vercel.app) *(to be deployed)*
+ [https://mortgage-approval.vercel.app/](https://mortgage-approval.vercel.app/) 
 
-**📺 Video Demo:** [https://youtube.com/watch?v=your-video](https://youtube.com/watch?v=your-video) *(to be uploaded)*
 
-**📦 GitHub Repo:** [https://github.com/your-username/fhevm-react-template](https://github.com/your-username/fhevm-react-template)
+**📺 Video Demo:** [demo1.mp4 demo2.mp4 demo3.mp4] 
+
+**📦 GitHub Repo:** [https://github.com/OraCartwright/fhevm-react-template](https://github.com/OraCartwright/fhevm-react-template)
 
 ## 🎯 Overview
 
