@@ -14,7 +14,7 @@ This is a submission for the **FHEVM SDK Template Challenge** - building a unive
  [https://mortgage-approval.vercel.app/](https://mortgage-approval.vercel.app/) 
 
 
-**📺 Video Demo:** [demo1.mp4 demo2.mp4 demo3.mp4] 
+**📺 Video Demo:** [demo1.mp4 demo2.mp4 ] 
 
 **📦 GitHub Repo:** [https://github.com/OraCartwright/fhevm-react-template](https://github.com/OraCartwright/fhevm-react-template)
 
@@ -558,7 +558,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 - [x] **GitHub Repository** - Forked from fhevm-react-template with commit history preserved
 - [x] **Universal FHEVM SDK** - Framework-agnostic core package (`@fhevm/sdk`)
 - [x] **Example Templates** - Next.js showcase (required) + React/Vite (bonus)
-- [x] **Video Demo** - Demo1.mp4 demo2.mp4 demo3.mp4
+- [x] **Video Demo** - Demo1.mp4 demo2.mp4 
 - [x] **README with Deployment Links** - [DEPLOYMENT.md](./DEPLOYMENT.md) (to be updated with live URLs)
 
 ### 📦 Package Structure
@@ -645,7 +645,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **📖 Documentation:** [Full Documentation](https://docs.zama.ai/fhevm)
 - **💬 GitHub Issues:** [Report bugs or request features](https://github.com/OraCartwright/fhevm-react-template/issues)
 - **🎮 Live Demo:** [Try it now](https://mortgage-approval.vercel.app/)
-- **📺 Video Tutorial:** [demo1.mp4 demo2.mp4 demo3.mp4] 
+- **📺 Video Tutorial:** [demo1.mp4 demo2.mp4 ] 
 - **💬 Discord:** [Join Zama Community](https://discord.gg/zama)
 - **📧 Email:** support@zama.ai
 
