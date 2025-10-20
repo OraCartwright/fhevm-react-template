@@ -1,0 +1,34 @@
+{
+  "name": "@fhevm/contracts",
+  "version": "1.0.0",
+  "description": "Solidity contracts with FHE support for FHEVM SDK",
+  "type": "module",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.ts",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "clean": "hardhat clean && rm -rf node_modules"
+  },
+  "keywords": [
+    "fhe",
+    "fhevm",
+    "solidity",
+    "contracts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fhevm": "^0.5.0",
+    "fhevm-contracts": "^0.5.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@types/node": "^22.8.6",
+    "hardhat": "^2.22.16",
+    "ethers": "^6.13.4",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.6.3"
+  }
+}
